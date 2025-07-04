@@ -54,7 +54,7 @@
 
 ## Процессы, стандарты и инструменты
 
-- [Целеполагание по OKR и процесс Performance Review](goal-setting.md)
+- [Целеполагание по <abbr title="Objectives and key results">OKR</abbr> и процесс Performance Review](goal-setting.md)
 - [SPT: работа с обращениями пользователей](spt.md)
 
 ### Разработка
