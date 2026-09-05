@@ -1,0 +1,11 @@
+[validator]
+path_to_explore = '.'
+exclude_patterns = ['.git', 'node_modules', '*.tmp']
+log_level = 'warning'
+report_format = 'markdown'
+is_validate = true
+is_fail_on_error = true
+external_timeout_sec = 10
+max_threads_number = 5
+hosts_to_ignore = ['localhost', '127.0.0.1', 'ozon.ru', 'amazon.com', 'wildberries.ru', 'litres.ru', 'labirint.ru']
+is_skip_external = false
